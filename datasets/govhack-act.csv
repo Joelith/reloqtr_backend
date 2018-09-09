@@ -2,11 +2,11 @@
 ACTEast,#N/A,,350,517,867,MALE AGE 18,0,0,0,0,,0,0,0,0,0,0
 ACTSouthWest,#N/A,,3944,4010,7954,MALE AGE 25,0,0,0,0,,0,0,0,0,0,0
 Acton,1928,,1123,1255,2378,MALE AGE 20,3.49,1,0,0,,7,1,1,0,0,0
-Ainslie,1928,,2808,2522,5330,FEMALE AGE 85+,6.5,0,0,0,,1,1,8,1,0,0
+Ainslie,1928,"Ainslie is within walking distance of the City, the nature trails of Mount Ainslie, the Australian War Memorial and the many restaurants of Dickson. It has many attractions: a central location, with equally easy access to the CBD and the bush trails of Mount Ainslie; the abundance of charming early twentieth-century, heritage-listed houses; mature deciduous street trees and general leafiness; and a vibrant local shopping centre.",2808,2522,5330,FEMALE AGE 85+,6.5,0,0,0,,1,1,8,1,0,0
 Amaroo,1994,,3149,2829,5978,FEMALE AGE 46,15.71,0,0,0,,1,1,0,0,0,0
 Aranda,1967,,1308,1200,2508,FEMALE AGE 85+,8.82,0,0,0,,0,0,0,0,0,0
 Banks,1992,,2441,2412,4853,MALE AGE 4,19.09,0,0,0,,0,0,0,0,0,0
-Belconnen,1983,,3135,3440,6575,MALE AGE 25,9.17,15,1,2,"http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg, http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg",15,3,24,1,2,0
+Belconnen,1983,"Belconnen (postcode: 2617) is the most inner suburb of the larger district of Belconnen in Canberra, Australia. Sharing its name with the larger district which encapsulates it, the suburb is surrounded with well developed infrastructure, and planning which allows it sunset views from the Brindabellas on its western side.",3135,3440,6575,MALE AGE 25,9.17,15,1,2,"http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg, http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg",15,3,24,1,2,0
 Bonner,#N/A,,2828,2826,5654,FEMALE AGE 34,17.53,0,0,0,,2,0,1,0,0,0
 Bonython,1989,,1857,1792,3649,FEMALE AGE 51,13.5,0,0,0,,2,1,0,1,0,0
 Braddon,1928,,2845,3341,6186,MALE AGE 28,5.6,2,0,0,,2,0,0,0,0,0
@@ -24,7 +24,7 @@ Cook,1968,,1490,1303,2793,FEMALE AGE 85+,9.87,0,0,0,,1,1,4,0,0,0
 Crace,2009,,2496,2087,4583,FEMALE AGE 34,13.87,0,0,0,,1,1,7,0,0,0
 Curtin,1962,,2796,2508,5304,FEMALE AGE 85+,8.26,0,0,1,http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg,0,0,0,0,1,0
 Deakin,1928,,1494,1213,2707,FEMALE AGE 85+,6.02,0,0,0,,0,0,13,2,0,1
-Dickson,1928,,1185,1238,2423,MALE AGE 25,6.72,0,0,0,,0,1,0,0,0,0
+Dickson,1928,"The suburb contains the Dickson Centre, a significant commercial centre in Canberra’s Inner North containing the Woolworths Supermarkets outlet with the greatest turnover in Australia. The centre contains an ambulance station, office buildings, many shops and the Dickson Baptist Church.",1185,1238,2423,MALE AGE 25,6.72,0,0,0,,0,1,0,0,0,0
 Downer,1960,,1881,1864,3745,FEMALE AGE 85+,8.22,0,0,0,,0,1,0,0,0,0
 Duffy,1971,,1527,1484,3011,MALE AGE 14,12.04,0,0,0,,0,0,0,1,0,0
 Dunlop,#N/A,,3750,3690,7440,FEMALE AGE 36,16.57,0,0,0,,1,1,0,1,0,0
@@ -85,12 +85,12 @@ Namadgi,#N/A,,15,16,31,MALE AGE 54,29.59,0,0,0,,0,0,0,0,0,0
 Narrabundah,1947,,3219,3049,6268,FEMALE AGE 85+,7.38,0,0,1,http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg,0,1,0,1,1,0
 Ngunnawal,1993,,5494,5414,10908,FEMALE AGE 34,15.34,0,0,1,http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg,0,1,0,1,1,0
 Nicholls,1994,,3355,3361,6716,FEMALE AGE 50,13.84,0,0,1,http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg,1,0,0,1,1,0
-O'Connor,1928,,2922,2816,5738,FEMALE AGE 22,6.52,0,1,0,,0,1,0,1,0,0
+O'Connor,1928,"O'Connor is bounded by Wattle and David streets, and also includes the Bruce/O'Connor ridge nature reserve, the hilly area with many trees that lies between the houses in O'Connor, and the Australian Institute of Sport (in the suburb of Bruce). Sports such as soccer, rugby and cricket are often played at the ovals at O'Connor district playing fields.",2922,2816,5738,FEMALE AGE 22,6.52,0,1,0,,0,1,0,1,0,0
 O'Malley,1973,,507,476,983,FEMALE AGE 71,8.84,0,0,0,,0,1,0,0,0,0
 Oxley,1985,,845,865,1710,MALE AGE 15,12.7,0,0,0,,0,0,0,0,0,0
 Page,#N/A,,1563,1335,2898,FEMALE AGE 85+,11.23,0,0,0,,0,0,0,0,0,0
 Palmerston,1994,,2868,2712,5580,FEMALE AGE 50,13,0,0,0,,0,1,0,0,0,0
-Parkes,1922,,0,0,0,FEMALE AGE 0,0,0,0,0,,0,0,0,0,0,0
+Parkes,1922,"Located south-east of the Canberra central business district, Parkes contains the Parliamentary Triangle and many of the national monuments of Australia's capital city. Parkes is named in honour of Sir Henry Parkes, a Federalist, legislator and one of the founders of the Australian Constitution. Streets in Parkes are named after monarchs and constitutional references.",0,0,0,FEMALE AGE 0,0,0,0,0,,0,0,0,0,0,0
 Pearce,1967,,1199,1238,2437,FEMALE AGE 85+,9.26,0,0,0,,0,0,0,0,0,0
 Phillip,1966,,1290,1224,2514,FEMALE AGE 27,7.17,0,0,0,,1,1,9,1,0,0
 Red Hill,1928,,1598,1642,3240,FEMALE AGE 85+,7.12,0,0,0,,0,1,0,0,0,0
@@ -103,7 +103,7 @@ Stirling,1970,,992,962,1954,FEMALE AGE 85+,1.28,0,0,0,,0,1,0,0,0,0
 Theodore,1986,,1893,1891,3784,MALE AGE 55,16.13,0,0,0,,0,0,7,0,0,0
 Torrens,1966,,1117,1018,2135,FEMALE AGE 85+,10.25,0,0,0,,0,1,0,0,0,0
 Tuggeranong,#N/A,,14,17,31,FEMALE AGE 63,26.91,7,0,0,,0,0,0,0,0,0
-Turner,1928,,2019,2185,4204,MALE AGE 26,5.74,0,0,0,,1,1,0,0,0,0
+Turner,1928,"Turner is named after Sir George Turner, a Federalist, legislator and one of the founders of the Australian Constitution. He was a Premier of Victoria, and later Federal Treasurer under prime ministers Barton, Deakin and Reid. Streets in Turner are mostly named after writers, legislators and pioneers.",2019,2185,4204,MALE AGE 26,5.74,0,0,0,,1,1,0,0,0,0
 Wanniassa,1975,,3697,3673,7370,FEMALE AGE 64,12.52,0,0,0,,0,1,0,1,0,0
 Waramanga,1968,,1148,1157,2305,FEMALE AGE 85+,10.26,0,0,1,http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg,0,0,0,2,1,0
 Watson,1960,,3310,3217,6527,MALE AGE 35,10.05,1,0,0,,0,0,0,0,0,0
