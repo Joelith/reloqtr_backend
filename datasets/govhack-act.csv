@@ -1,7 +1,7 @@
 ﻿Suburb,AGE,DESCRIPTION,FEM_POP,MALE_POP,TOTAL_POP,MODE_DEM,COMMUTE,NO_ARTS,DOG_PARK,NO_GRAFITTI,GRAFFITI_IMG,NO_BBQ,NO_PARKS_AND_PLAYGROUNDS,NO_FIT_SITES,NO_BB_CRTS,NO_SKATE_PARKS,NO_HOSPITALS
 ACTEast,#N/A,,350,517,867,MALE AGE 18,0,0,0,0,,0,0,0,0,0,0
 ACTSouthWest,#N/A,,3944,4010,7954,MALE AGE 25,0,0,0,0,,0,0,0,0,0,0
-Acton,1928,,1123,1255,2378,MALE AGE 20,3.49,1,0,0,,7,1,1,0,0,0
+Acton,1928,"Acton covers an area west of the CBD, bordered by Black Mountain to the west and Lake Burley Griffin in the south. The Australian National University campus covers most of the suburb, though also located in Acton is the National Film and Sound Archive, a branch of the CSIRO and the National Museum of Australia.",1123,1255,2378,MALE AGE 20,3.49,1,0,0,,7,1,1,0,0,0
 Ainslie,1928,"Ainslie is within walking distance of the City, the nature trails of Mount Ainslie, the Australian War Memorial and the many restaurants of Dickson. It has many attractions: a central location, with equally easy access to the CBD and the bush trails of Mount Ainslie; the abundance of charming early twentieth-century, heritage-listed houses; mature deciduous street trees and general leafiness; and a vibrant local shopping centre.",2808,2522,5330,FEMALE AGE 85+,6.5,0,0,0,,1,1,8,1,0,0
 Amaroo,1994,,3149,2829,5978,FEMALE AGE 46,15.71,0,0,0,,1,1,0,0,0,0
 Aranda,1967,,1308,1200,2508,FEMALE AGE 85+,8.82,0,0,0,,0,0,0,0,0,0
@@ -9,7 +9,7 @@ Banks,1992,,2441,2412,4853,MALE AGE 4,19.09,0,0,0,,0,0,0,0,0,0
 Belconnen,1983,"Belconnen (postcode: 2617) is the most inner suburb of the larger district of Belconnen in Canberra, Australia. Sharing its name with the larger district which encapsulates it, the suburb is surrounded with well developed infrastructure, and planning which allows it sunset views from the Brindabellas on its western side.",3135,3440,6575,MALE AGE 25,9.17,15,1,2,"http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg, http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg",15,3,24,1,2,0
 Bonner,#N/A,,2828,2826,5654,FEMALE AGE 34,17.53,0,0,0,,2,0,1,0,0,0
 Bonython,1989,,1857,1792,3649,FEMALE AGE 51,13.5,0,0,0,,2,1,0,1,0,0
-Braddon,1928,,2845,3341,6186,MALE AGE 28,5.6,2,0,0,,2,0,0,0,0,0
+Braddon,1928,"The suburb is one of the oldest suburbs in Canberra, a relatively young city, settled in 1922 and gazetted as a division name in September 1928. It contained Canberra's first light-industrial area. In recent years this area has begun to be redeveloped as an entertainment and residential precinct. Other areas have been redeveloped with flats. It is now Canberra's most densely populated suburb.",2845,3341,6186,MALE AGE 28,5.6,2,0,0,,2,0,0,0,0,0
 Bruce,1968,,4056,3907,7963,FEMALE AGE 21,9.85,0,0,0,,0,0,0,0,0,2
 Calwell,1986,,2855,2712,5567,FEMALE AGE 50,15.5,0,0,1,http://www.abc.net.au/reslib/201405/r1279159_17306753.jpg,0,0,0,0,1,0
 Campbell,1928,,2369,3565,5934,MALE AGE 20,5.84,0,0,0,,3,0,4,0,0,0
