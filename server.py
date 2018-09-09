@@ -46,11 +46,13 @@ def match():
     #print(test_user)
     # compatible suburb results
     cs_results = get_burbs(content_list)
-    shuffle(cs_results)
-    print(cs_results )
+
     # Pulls data from govhack csv to match selected suburb
     csv_file_df = pd.read_csv('datasets/govhack-act.csv')
-    first_picked_name = cs_results[0][0].lower().title()
+
+    rand_idx = random.randint(0, 9)
+
+    first_picked_name = cs_results[rand_idx][0].lower().title()
     print(first_picked_name)
     govhack_values = (csv_file_df[csv_file_df['Suburb'] == first_picked_name])
     url = "http://129.144.154.154/images"
