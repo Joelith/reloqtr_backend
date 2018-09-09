@@ -2,6 +2,7 @@ from flask import Flask, json, request
 from flask_cors import CORS, cross_origin
 from sklearn.neighbors import NearestNeighbors
 from pandas import read_hdf
+from random import shuffle
 import pandas as pd
 import random
 
@@ -45,6 +46,7 @@ def match():
     #print(test_user)
     # compatible suburb results
     cs_results = get_burbs(content_list)
+    shuffle(cs_results)
     print(cs_results )
     # Pulls data from govhack csv to match selected suburb
     csv_file_df = pd.read_csv('datasets/govhack-act.csv')
